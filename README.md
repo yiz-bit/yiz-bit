@@ -1,4 +1,10 @@
-## Hi there 👋
+### 📫 Connect with me:
+[<img align="left" alt="yiz-bit | Gmail" width="50px" style="color:blue" src="gmail_logo.svg" />][gmail]
+
+[gmail]: mailto:zhouyi.contact@gmail.com
+
+
+<!-- ## Hi there 👋
 
 <!--
 **yiz-bit/yiz-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
